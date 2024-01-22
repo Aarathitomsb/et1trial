@@ -1,3 +1,4 @@
-opencv-python-headless
-ipwidgets
 Pillow
+ipywidgets
+math
+numpy
