@@ -2,7 +2,4 @@ Pillow
 ipywidgets
 numpy
 matplotlib
-seaborn
-pandas
-opencv-contrib-python
-scikit-learn
+
