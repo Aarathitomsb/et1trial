@@ -6,4 +6,3 @@ seaborn
 pandas
 opencv-contrib-python
 scikit-learn
-tensorflows
