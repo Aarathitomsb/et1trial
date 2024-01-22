@@ -6,4 +6,4 @@ seaborn==0.8.1
 pandas
 opencv-contrib-python==4.9.0.80
 scikit-learn
-tensorflow==2.1.2
+tensorflow==2.8.2
