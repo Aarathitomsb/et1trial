@@ -4,6 +4,6 @@ numpy==1.16.*
 matplotlib==3.*
 seaborn==0.8.1
 pandas
-opencv-contrib-python==4.2.0.34
+opencv-contrib-python==4.9.0.80
 scikit-learn
 tensorflow==2.1.2
