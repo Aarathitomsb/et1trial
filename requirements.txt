@@ -1,5 +1,0 @@
-Pillow
-ipywidgets
-numpy
-matplotlib
-
